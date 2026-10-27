@@ -2,9 +2,11 @@
 
 An interactive sales dashboard built with Microsoft Power BI to analyze sales performance, monitor key metrics, and identify business insights through data visualization.
 
+
 ## Dashboard Preview
 
-![Sales Performance Dashboard](sales-dashboard.png)
+![Sales Performance Dashboard](Sales%20Performance%20Dashboard.jpg)
+
 
 ## Project Overview
 
